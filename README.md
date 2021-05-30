@@ -1,4 +1,4 @@
-# Test
+# JavaGraduates2021test
 
 Изработени се задача 1 и 3.
 
