@@ -31,7 +31,8 @@ public class Book {
     @Enumerated(EnumType.STRING)
     private TypeBook printCopy;
 
-
+    @ManyToOne
+    private Author author;
 
     public Long getId() {
         return id;
