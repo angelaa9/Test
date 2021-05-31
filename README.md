@@ -1,6 +1,6 @@
 # JavaGraduates2021test
 
-Изработени се задача 1 и 3.
+Spring Boot application
 
 localhost:9091
 
